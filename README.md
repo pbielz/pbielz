@@ -1,4 +1,4 @@
-##  🕹️ Nome do player: Pedro👋
+## Nome do player: Pedro🕹️ 
 
 🎓 Atualmente cursando **Ciência da Computação**  
 🎓 Formado em **Desenvolvimento de Sistemas** e **Administração** (tecnólogo)  
@@ -14,11 +14,14 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-##
-![pbielz GitHub stats](https://github-readme-stats.vercel.app/api?username=pbielz&show_icons=true&theme=dark)
 
 ### 📫 Como me encontrar:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+##
+<!--
+![pbielz GitHub stats](https://github-readme-stats.vercel.app/api?username=pbielz&show_icons=true&theme=dark)
+-->
+
 
