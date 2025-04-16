@@ -17,8 +17,8 @@
 
 ### 📫 Como me encontrar:
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pbiel.muniz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-gabriel-muniz-lopes-ab2205260)
 ##
 <!--
 ![pbielz GitHub stats](https://github-readme-stats.vercel.app/api?username=pbielz&show_icons=true&theme=dark)
